@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently study at **Can Tho University**
 
-- 🌱 I’m currently learning **Java, Javascript, Typescript, Spring Boot, ReactJS, Agular,..**
+- 🌱 I’m currently learning **Java, Javascript, Typescript, Spring Boot, ReactJS, Angular,..**
 
 - 👨‍💻 All of my projects are available at [https://github.com/HuyHoa02](https://github.com/HuyHoa02)
 
